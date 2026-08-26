@@ -3,4 +3,4 @@ Allow: /
 Disallow: /tax-relief-thank-you.html
 Disallow: /debt-relief-thank-you.html
 
-Sitemap: https://REPLACE-WITH-YOUR-DOMAIN.netlify.app/sitemap.xml
+Sitemap: https://curadebt.netlify.app/sitemap.xml
